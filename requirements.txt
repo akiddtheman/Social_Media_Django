@@ -1,0 +1,16 @@
+asgiref
+django-appconf
+django-ckeditor
+django-compressor
+django-crispy-forms
+django-filter
+django-js-asset
+django-libsass
+gunicorn
+libsass
+Pillow
+rcssmin
+rjsmin
+six
+sqlparse
+tzdata
